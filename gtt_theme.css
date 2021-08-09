@@ -63,14 +63,14 @@ d-appendix {
   --text-color:       #ffffff; /* edited */
   --text-size:        16px;
   --hover-color:      #ffffff; /* edited */
-  --bkgd-color:       #0B8126; /* edited */
+  --bkgd-color:       #05684C; /* edited */
 }
 
 .distill-site-footer {
   --text-color:       rgba(255, 255, 255, 0.8);
   --text-size:        13px;
   --hover-color:      white;
-  --bkgd-color:       #0B8126;
+  --bkgd-color:       #05684C;
 }
 
 /*-- Additional custom styles --*/

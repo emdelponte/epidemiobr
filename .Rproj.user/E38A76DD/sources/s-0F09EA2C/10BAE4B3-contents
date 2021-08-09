@@ -6,12 +6,16 @@ output_dir: "docs"
 
 navbar:
   left:
-    - text: "> Blog"
+    - text: "Início"
       href: index.html
-    - text: "> Sobre"
+    - text: "Sobre nós"
       href: about.html
-    - text: "> Diretório"
+    - text: "Recursos"
+      href: recursos.html
+    - text: "Diretório"
       href: https://alvesks.shinyapps.io/epidemioBR/
+    - text: "EpidemioBrasil"
+      href: https://epidemiobrasil.netlify.app/
 
 output:
   distill::distill_article:

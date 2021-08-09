@@ -1,7 +1,7 @@
 {
     "id": "CB7157F8",
-    "path": "~/Documents/GitHub/epidemiobr/about.Rmd",
-    "project_path": "about.Rmd",
+    "path": "~/Documents/GitHub/epidemiobr/recursos.Rmd",
+    "project_path": "recursos.Rmd",
     "type": "r_markdown",
     "hash": "0",
     "contents": "",
@@ -12,19 +12,19 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "3,2",
-        "scrollLine": "3",
+        "cursorPosition": "0,0",
+        "scrollLine": "0",
         "rmdVisualMode": "true",
         "rmdVisualWrapConfigured": "true",
         "docOutlineVisible": "1",
-        "rmdVisualModeLocation": "48:0"
+        "rmdVisualModeLocation": "169:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1628529466,
+    "lastKnownWriteTime": 1628530871,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1628529466686,
+    "last_content_update": 1628530872003,
     "read_only": false,
     "read_only_alternatives": []
 }

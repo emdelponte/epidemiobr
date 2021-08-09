@@ -6,14 +6,22 @@
       "description": "Blog do Grupo Temático de Trabalho (GTT) em Epidemiologia da Sociedade Brasileira de Fitopatologia",
       "author": [],
       "contents": "\n\nContents\nCoordenação\n2019-2021\n2021-2023\n\n\nO EpidemioBR é um BLOG coordenado pelo Grupo Temático de Trabalho (GTT) em Epidemiologia vinculado à Sociedade Brasileira de Fitopatologia. O Grupo foi estabelecido durante o 51 Congresso Brasileiro de Fitopatologia realizado em Recife em 2019.\nDe acordo com a SBF, os GTTs deverão ter “autonomia para discutir, propor e conduzir ações de cunho técnico-científico e social, desde que respaldadas por decisões da Diretoria da SBF”.\nDurante a primeira reunião do grupo foi decidido que dentre as ações principais do grupo incluem-se a promoção do Workshop Brasileiro de Epidemiologia, o EpidemioBrasil. Também foi decidido que haverá troca de coordenação a cada Congresso da SBF, sendo escolhido um vice-coordenador em cada congresso, o qual assume a responsabilidade pela Coordenação e condução da reunião a cada novo Congresso.\nCoordenação\n2019-2021\nProf. Emerson Del Ponte (UFV)\nProfa. Leilane D’Ávila (UFRB)\n2021-2023\nProf. Leilane D’Ávila\nA definir\n\n\n\n",
-      "last_modified": "2021-08-09T14:24:40-03:00"
+      "last_modified": "2021-08-09T14:42:57-03:00"
     },
     {
       "path": "index.html",
       "title": "",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-09T14:24:41-03:00"
+      "last_modified": "2021-08-09T14:42:58-03:00"
+    },
+    {
+      "path": "recursos.html",
+      "title": "Recursos",
+      "description": "Links para materais instrucionais e educativos",
+      "author": [],
+      "contents": "\n\nContents\nLivros\nVideos\nBases de dados\n\nLivros\nR4PDE - R para epidemiologia de doenças de plantas (em inglês)\nVideos\nCanal Epidemio Fora da Curva\nPalestra: Epidemiologia, bases para o manejo de doenças de plantas\nBases de dados\nSADBank - banco de dados de escalas diagramáticas\n\n\n\n",
+      "last_modified": "2021-08-09T14:42:58-03:00"
     }
   ],
   "collections": ["posts/posts.json"]
