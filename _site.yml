@@ -1,7 +1,7 @@
 name: "epidemiobr"
 title: "EpidemioBR"
 description: |
-  
+  Blog do Grupo Temático de Trabalho em Epidemilogia da Sociedade Brasileira de Fitopatologia 
 output_dir: "docs"
 
 navbar:
