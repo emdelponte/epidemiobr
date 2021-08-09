@@ -1,0 +1,27 @@
+---
+title: "Sobre o EpidemioBR"
+description: |
+  Blog do Grupo Temático de Trabalho (GTT) em Epidemiologia da Sociedade Brasileira de Fitopatologia
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+O EpidemioBR é um BLOG coordenado pelo Grupo Temático de Trabalho (GTT) em Epidemiologia vinculado à [Sociedade Brasileira de Fitopatologia](http://sbfitopatologia.org.br). O Grupo foi estabelecido durante o 51 Congresso Brasileiro de Fitopatologia realizado em Recife em 2019.
+
+De acordo com a SBF, os GTTs deverão ter "*autonomia para discutir, propor e conduzir ações de cunho técnico-científico e social, desde que respaldadas por decisões da Diretoria da SBF*".
+
+Durante a primeira reunião do grupo foi decidido que dentre as ações principais do grupo incluem-se a promoção do Workshop Brasileiro de Epidemiologia, o EpidemioBrasil. Também foi decidido que haverá troca de coordenação a cada Congresso da SBF, sendo escolhido um vice-coordenador em cada congresso, o qual assume a responsabilidade pela Coordenação e condução da reunião a cada novo Congresso.
+
+## Coordenação
+
+### 2019-2021
+
+Prof. Emerson Del Ponte (UFV)\
+Profa. Leilane D'Ávila (UFRB)
+
+### 2021-2023
+
+Prof. Leilane D'Ávila\
+A definir
