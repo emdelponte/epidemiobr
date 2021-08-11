@@ -10,8 +10,9 @@ description: |
 
 ## Videos
 
--   Canal [Epidemio Fora da Curva](https://www.youtube.com/channel/UCl5H4LMBYJB1Hu3HgCmgyCg)
--   Palestra: [Epidemiologia](https://www.youtube.com/watch?v=3gXJNfdqZs0&t=941s), bases para o manejo de doenças de plantas
+-   Canal [Epidemio Fora da Curva](https://www.youtube.com/channel/UCl5H4LMBYJB1Hu3HgCmgyCg): tutorias e screencasts sobre epidemiologia e análise de dados (Kaique Alves)
+-   Palestra: [Epidemiologia](https://www.youtube.com/watch?v=3gXJNfdqZs0&t=941s), bases para o manejo de doenças de plantas (Prof. Del Ponte)
+-   Aula: Epidemiologia: [parte 1](https://www.youtube.com/watch?v=eFgR7Qtggb8) \| [parte 2](https://www.youtube.com/watch?v=V0ScIh-3iYE) \| [parte 3](https://www.youtube.com/watch?v=JCQvJvol304) (Prof. Bergamin)
 
 ## Bases de dados
 
