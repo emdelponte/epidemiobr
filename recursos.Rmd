@@ -4,9 +4,10 @@ description: |
   Links para materais instrucionais e educativos
 ---
 
-## Livros
+## Livros/tutoriais
 
--   [R4PDE](https://emdelponte.github.io/epidemiology-R/index.html) - R para epidemiologia de doenças de plantas (em inglês)
+-   [R4PDE](https://emdelponte.github.io/epidemiology-R/index.html) - R para epidemiologia de doenças de plantas (EN)
+-   Epidemiologia de doenças de plantas: [Aspectos temporais](https://www.apsnet.org/edcenter/disimpactmngmnt/topc/EpidemiologiaPort/Pages/default.aspx) (PT)
 
 ## Videos
 

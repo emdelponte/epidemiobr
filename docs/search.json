@@ -20,8 +20,8 @@
       "title": "Recursos",
       "description": "Links para materais instrucionais e educativos",
       "author": [],
-      "contents": "\n\nContents\nLivros\nVideos\nBases de dados\n\nLivros\nR4PDE - R para epidemiologia de doenças de plantas (em inglês)\nVideos\nCanal Epidemio Fora da Curva: tutorias e screencasts sobre epidemiologia e análise de dados (Kaique Alves)\nPalestra: Epidemiologia, bases para o manejo de doenças de plantas (Prof. Del Ponte)\nAula: Epidemiologia: parte 1 | parte 2 | parte 3 (Prof. Bergamin)\nBases de dados\nSADBank - banco de dados de escalas diagramáticas\n\n\n\n",
-      "last_modified": "2021-08-11T10:28:26-03:00"
+      "contents": "\n\nContents\nLivros/tutoriais\nVideos\nBases de dados\n\nLivros/tutoriais\nR4PDE - R para epidemiologia de doenças de plantas (EN)\nEpidemiologia de doenças de plantas: Aspectos temporais (PT)\nVideos\nCanal Epidemio Fora da Curva: tutorias e screencasts sobre epidemiologia e análise de dados (Kaique Alves)\nPalestra: Epidemiologia, bases para o manejo de doenças de plantas (Prof. Del Ponte)\nAula: Epidemiologia: parte 1 | parte 2 | parte 3 (Prof. Bergamin)\nBases de dados\nSADBank - banco de dados de escalas diagramáticas\n\n\n\n",
+      "last_modified": "2021-08-11T10:33:30-03:00"
     }
   ],
   "collections": ["posts/posts.json"]
