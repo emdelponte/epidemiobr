@@ -12,6 +12,7 @@ output:
 categories:
   - GTT documentos
 preview: logo.png
+draft: TRUE
 ---
 
 
