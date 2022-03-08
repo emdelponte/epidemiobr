@@ -84,26 +84,26 @@ code span.wa { color: #008000; font-weight: bold; } /* Warning */
 
 
   <!--radix_placeholder_meta_tags-->
-  <title>EpidemioBR: </title>
+  <title>EpidemioBR: Submissão de trabalhos</title>
 
 
 
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content="EpidemioBR: "/>
+  <meta property="og:title" content="EpidemioBR: Submissão de trabalhos"/>
   <meta property="og:type" content="article"/>
   <meta property="og:locale" content="en_US"/>
   <meta property="og:site_name" content="EpidemioBR"/>
 
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
-  <meta property="twitter:title" content="EpidemioBR: "/>
+  <meta property="twitter:title" content="EpidemioBR: Submissão de trabalhos"/>
 
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","site","listing"]}},"value":[{"type":"character","attributes":{},"value":[""]},{"type":"character","attributes":{},"value":["distill::distill_website"]},{"type":"character","attributes":{},"value":["posts"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description"]}},"value":[{"type":"character","attributes":{},"value":["Submissão de trabalhos"]},{"type":"NULL"}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2357,12 +2357,12 @@ code span.wa { color: #008000; font-weight: bold; } /* Warning */
 
 </head>
 
-<body class="layout-listing">
+<body>
 
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"","authors":[]}
+{"title":"Submissão de trabalhos","authors":[]}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2408,208 +2408,9 @@ GTT Epidemiologia
 <!--/radix_placeholder_navigation_before_body-->
 <!--radix_placeholder_site_before_body-->
 <!--/radix_placeholder_site_before_body-->
-<!--radix_placeholder_article_listing-->
-
-
-<script type="application/javascript">
-
-function init_posts_list() {
-
-  function load_image(img) {
-    var src = $(img).attr('data-src');
-    if (src) {
-      $(img).attr('src', src);
-      $(img).on("load", function() {
-        img.removeAttribute('data-src');
-      });
-    }
-  }
-
-  function set_posts_visible(posts, visible) {
-    if (visible) {
-
-      // show bottom border by default
-      $(posts).removeClass('post-preview-last');
-
-      // apply limits if need be
-      var max_posts = 25;
-      var apply_limits = $('.posts-container').hasClass('posts-apply-limit');
-      if (apply_limits && posts.length > max_posts) {
-        posts = $(posts).slice(0, max_posts);
-      } else {
-        $('.posts-more a').addClass('hidden');
-      }
-
-      // apply last style
-      $(posts.slice(-1)[0]).addClass('post-preview-last');
-
-      $(posts).removeClass('hidden');
-      $(posts).find('img[data-src]').each(function(i, img) {
-        load_image(img);
-      });
-    } else {
-      $(posts).addClass('hidden');
-    }
-  }
-
-  function apply_hash_filter() {
-
-    // clear active state
-    $('.categories .active').removeClass('active');
-
-    // mark all posts invisible to start
-    set_posts_visible($('.posts-list').children('a'), false);
-
-    // if we have a hash filter
-    if (window.location.hash && window.location.hash.startsWith("#category:")) {
-
-      // mark posts that match the category visible
-      var page_category = window.location.hash.replace(/^#category:/, "");
-      page_category = decodeURIComponent(page_category)
-      var posts = $('.post-metadata').map(function(idx, script) {
-        var metadata = $.parseJSON($(script).html());
-        var post = null;
-        $.each(metadata.categories, function(idx, category) {
-          category = category.replace(/ /g,"_");
-          if ((page_category || '').toLowerCase() === "articles" || category === page_category) {
-            post = $(script).parent().get();
-            return false;
-          }
-        });
-        return post;
-      });
-      set_posts_visible(posts, true);
-
-      // mark the hash active
-      $('.categories li>a[href="' + decodeURIComponent(window.location.hash) + '"]').addClass('active');
-
-      // update the list_caption
-      var list_caption = $('.posts-list-caption');
-      var caption = (page_category || '').toLowerCase() === "articles"
-        ? list_caption.attr('data-caption')
-        : ('Category: ' + page_category.replace(/_/g," "));
-      list_caption.text(caption);
-
-    } else {
-
-      // no hash filter, make all posts visible (subject to max display)
-      set_posts_visible($('.posts-list').children(), true);
-
-      // reset list caption
-      var list_caption = $('.posts-list-caption');
-      list_caption.text(list_caption.attr('data-caption'));
-
-
-    }
-  }
-
-  // more articles
-  function apply_post_limits(apply) {
-    if (apply) {
-      $('.posts-container').addClass('posts-apply-limit');
-      $('.posts-more a').removeClass('hidden');
-    } else {
-      $('.posts-container').removeClass('posts-apply-limit');
-      $('.posts-more a').addClass('hidden');
-    }
-  }
-
-  // click handling for tags
-  $('.dt-tag').click(function(ev) {
-    window.location.hash = '#category:' + $(this).text().replace(/ /g, "_");
-    return false;
-  })
-
-  // hash filter handling
-  apply_hash_filter();
-  $(window).on('hashchange',function() {
-    apply_post_limits(true);
-    apply_hash_filter();
-  });
-
-  // more articles link
-  $('.posts-more a').click(function(e) {
-    e.preventDefault();
-    apply_post_limits(false);
-    apply_hash_filter();
-    return false;
-  });
-
-}
-
-</script>
-
-
-
-<div class="posts-container posts-with-sidebar posts-apply-limit l-screen-inset">
-<div class="posts-list">
-<h1 class="posts-list-caption" data-caption=""></h1>
-<a href="posts/2022-03-07-nova-data-do-epidemiobrasil/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":["Workshop"]}</script>
-<div class="metadata">
-<div class="publishedDate">March 7, 2022</div>
-<div class="dt-authors">
-<div class="dt-author">Emerson Del Ponte</div>
-</div>
-</div>
-<div class="thumbnail">
-<img src="posts/2022-03-07-nova-data-do-epidemiobrasil/workshop-logo.png"/>
-</div>
-<div class="description">
-<h2>Nova data do EpidemioBrasil</h2>
-<div class="dt-tags">
-<div class="dt-tag">Workshop</div>
-</div>
-<p>Definida nova data do Workshop que será realizado na modalidade presencial: 14 e 15 de setembro de 2022 em Chapecó, Santa Catarina.</p>
-</div>
-</a>
-<a href="posts/2021-08-09-ata-da-reunio-do-gtt-epidemiologia-no-51-cbf-recife-2019/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":["GTT documentos"]}</script>
-<div class="metadata">
-<div class="publishedDate">Aug. 29, 2019</div>
-<div class="dt-authors">
-<div class="dt-author">Emerson Del Ponte</div>
-</div>
-</div>
-<div class="thumbnail">
-<img src="posts/2021-08-09-ata-da-reunio-do-gtt-epidemiologia-no-51-cbf-recife-2019/logo.png"/>
-</div>
-<div class="description">
-<h2>Ata da reunião do Grupo Temático de Trabalho (GTT) Epidemiologia no 51 CBF REcife 2019</h2>
-<div class="dt-tags">
-<div class="dt-tag">GTT documentos</div>
-</div>
-<p>No dia 29 de agosto, quinta-feira,  às 10:30 ocorreu a reunião do GTT durante o 51 Congresso Brasileiro de Fitopatologia.</p>
-</div>
-</a>
-</div>
-<div class="posts-sidebar">
-<div class="sidebar-section categories">
-<h3>Categories</h3>
-<ul>
-<li>
-<a href="#category:Articles">Articles</a>
-<span class="category-count">(2)</span>
-</li>
-<li>
-<a href="#category:GTT_documentos">GTT documentos</a>
-<span class="category-count">(1)</span>
-</li>
-<li>
-<a href="#category:Workshop">Workshop</a>
-<span class="category-count">(1)</span>
-</li>
-</ul>
-</div>
-</div>
-<div class="posts-more">
-<a href="#">More articles &raquo;</a>
-</div>
-</div>
-<!--/radix_placeholder_article_listing-->
 
 <div class="d-title">
-<h1>index.knit</h1>
+<h1>Submissão de trabalhos</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
 
@@ -2617,6 +2418,29 @@ function init_posts_list() {
 
 
 <div class="d-article">
+<div class="d-contents d-contents-float">
+<nav class="l-text toc figcaption" id="TOC">
+<h3>Contents</h3>
+<ul>
+<li><a href="#resumos">Resumos</a></li>
+<li><a href="#palestras">Palestras</a></li>
+<li><a href="#speed-talk">Speed talk</a></li>
+<li><a href="#mostra-de-pôsteres">Mostra de pôsteres</a></li>
+</ul>
+</nav>
+</div>
+<h2 id="resumos">Resumos</h2>
+<p>Todos os palestrantes e apresentadores de trabalho, seja na forma de pôster ou na forma de speed talk, devem submeter um resumo para o evento. Para a <strong>submissão</strong>, o participante deve estar inscrito no evento.</p>
+<p>Prazo para submissão: <strong>15 de julho de 2022</strong></p>
+<p>NORMAS: Fonte Arial 11; espaçamento Simples. Título em negrito; nome do apresentador do trabalho sublinhado. Filiação: apenas com o nome da empresa, cidade e estado; email do apresentador. O resumo terá uma página, sem limite de caracteres para o corpo do texto. Possível mencionar suporte ou agradecimento no final do arquivo.</p>
+<p><a href="img/template_resumo.docx">Baixe aqui um modelo padrão de resumo</a></p>
+<p>Enviar os resumos em arquivo word para <a href="mailto:jacsonfito@gmail.com" class="email">jacsonfito@gmail.com</a></p>
+<h2 id="palestras">Palestras</h2>
+<p>As sessões serão compostas por palestras de 30 min. Pede-se, entretanto, que o palestrante prepare para a exposição em 25 min, e que reserve 5 minutos para debate.</p>
+<h2 id="speed-talk">Speed talk</h2>
+<p>Minha pesquisa em 3 slides. Serão selecionados 10 trabalhos para serem apresentados em 5 min.</p>
+<h2 id="mostra-de-pôsteres">Mostra de pôsteres</h2>
+<p>A elaboração da arte do pôster é livre. Medidas máximas: 120 x 90 cm.</p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->

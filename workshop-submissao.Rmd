@@ -1,0 +1,28 @@
+---
+title: "Submissão de trabalhos"
+description: |
+---
+
+## Resumos
+
+Todos os palestrantes e apresentadores de trabalho, seja na forma de pôster ou na forma de speed talk, devem submeter um resumo para o evento. Para a **submissão**, o participante deve estar inscrito no evento.
+
+Prazo para submissão: **15 de julho de 2022**
+
+NORMAS: Fonte Arial 11; espaçamento Simples. Título em negrito; nome do apresentador do trabalho sublinhado. Filiação: apenas com o nome da empresa, cidade e estado; email do apresentador. O resumo terá uma página, sem limite de caracteres para o corpo do texto. Possível mencionar suporte ou agradecimento no final do arquivo.
+
+[Baixe aqui um modelo padrão de resumo](img/template_resumo.docx)
+
+Enviar os resumos em arquivo word para [jacsonfito\@gmail.com](mailto:jacsonfito@gmail.com){.email}
+
+## Palestras 
+
+As sessões serão compostas por palestras de 30 min. Pede-se, entretanto, que o palestrante prepare para a exposição em 25 min, e que reserve 5 minutos para debate.
+
+## Speed talk
+
+Minha pesquisa em 3 slides. Serão selecionados 10 trabalhos para serem apresentados em 5 min.
+
+## Mostra de pôsteres 
+
+A elaboração da arte do pôster é livre. Medidas máximas: 120 x 90 cm.
