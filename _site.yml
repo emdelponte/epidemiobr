@@ -20,6 +20,8 @@ navbar:
           href: workshop-local.html
         - text: "Submissão de trabalhos"
           href: workshop-submissao.html
+        - text: "Edições anteriores"
+          href: workshop-anteriores.html
     - text: "GTT Epidemiologia"
       href: about.html
       menu:
