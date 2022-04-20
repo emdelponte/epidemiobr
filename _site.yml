@@ -18,6 +18,8 @@ navbar:
           href: workshop-inscricoes.html
         - text: "Local"
           href: workshop-local.html
+        - text: "Onde ficar"
+          href: workshop-hoteis.html
         - text: "Submissão de trabalhos"
           href: workshop-submissao.html
         - text: "Edições anteriores"
