@@ -5,7 +5,7 @@ description: |
 
 ## Resumos
 
-Todos os palestrantes e apresentadores de trabalho, seja na forma de pôster ou na forma de speed talk, devem submeter um resumo para o evento. Para a **submissão**, o participante deve estar inscrito no evento.
+Todos os palestrantes e apresentadores de trabalho, seja na forma de pôster ou na forma de speed talk, devem submeter um resumo (escrito preferencialmente no idioma inglês) para o evento. Para a **submissão**, o participante deve estar inscrito no evento. 
 
 Prazo para submissão: **15 de julho de 2022**
 
