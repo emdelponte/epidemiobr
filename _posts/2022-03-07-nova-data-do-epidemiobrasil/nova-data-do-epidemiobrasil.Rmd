@@ -14,10 +14,8 @@ categories:
 preview: workshop-logo.png
 ---
 
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
 A comissão organizadora confirma a nova data do evento que será realizado de maneira presencial.
-
