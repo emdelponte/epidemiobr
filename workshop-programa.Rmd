@@ -7,91 +7,91 @@ A programação ainda está em elaboração, mas já contamos com palestrantes c
 
 <br>
 
-> [Confira o quadro de horários  das apresentações](https://docs.google.com/spreadsheets/d/1FSGTmXz8TIeWM_RvQ1ITZO2yTLe8FcegRS1ST9htWxQ/edit?usp=sharing)
+> [Confira o quadro de horários das apresentações](https://docs.google.com/spreadsheets/d/1FSGTmXz8TIeWM_RvQ1ITZO2yTLe8FcegRS1ST9htWxQ/edit?usp=sharing)
 
-
-
+\
 **Abertura**\
 Surveillance and response capacity for *Xylella fastidiosa*.\
 Dr. Saskia Hogenhout, John Innes Centre, Reino Unido
 
-------------------------------------------------------------------------
+**Sessão 1: Epidemiologia e manejo de doenças transmitidas por vetores**\
+Coordenação: Dra. Maria Cristina Canale, Epagri
 
-**Sessão: Epidemiologia e manejo de doenças transmitidas por vetores**
+Ecologia, Epidemiologia e Manejo de Doenças Sistêmicas Transmitidas por Vetores. \
+Prof. Dr. Armando Bergamin Filho, USP-ESALQ
 
-Ecologia, Epidemiologia e Manejo de Doenças Sistêmicas Transmitidas por Vetores. Prof. Dr. Armando Bergamin Filho, USP-ESALQ
-
-*Dalbulus maidis* monitoring program in the state of Santa Catarina: Scientific advances and challenges.\
+Dalbulus maidis monitoring program in the state of Santa Catarina: Scientific advances and challenges. \
 Prof. Dr. Fábio Nascimento da Silva, CAV-UDESC
 
-Epidemiologia e controle do Huanglongbing dos citros.\
+Epidemiologia e controle do Huanglongbing dos citros. \
 Dr. Renato Beozzo Bassanezi, Fundecitrus
 
-------------------------------------------------------------------------
+**Sessão 2: Perspectivas para o manejo de doenças de plantas no Brasil** \
+Coordenação: Prof. Dr. Eduardo Mizubuti, UFV
 
-**Sessão: Contribuições e perspectivas para o manejo de doenças de plantas no Brasil**
-
-Aspectos epidemiológicos da ferrugem asiática da videira.\
+Aspectos epidemiológicos da ferrugem asiática da videira. \
 Prof. Dra. Lilian Amorim, USP-ESALQ
 
-Epidemiology and the bright future of tailored solutions.\
+Epidemiology and the bright future of tailored solutions. \
 Dr. Piérri Spolti, Bayer Cropscience
 
-Contribuição e visão da área técnica e empreendedorismo.\
+A pesquisa na iniciativa privada e suas contribuições no manejo de doenças. \
 Dra. Caroline Rabelo Costa, PlantCare Pesquisa Agrícola
 
-------------------------------------------------------------------------
+**Sessão 3: Avanços no monitoramento e avaliação de risco\
+**Coordenação: Dr. Francisco Ferraz Laranjeira, Embrapa Mandioca e Fruticultura
 
-**Sessão: Avanços no monitoramento e avaliação de risco**
-
-Sistemas de aviso fitossanitário e contribuição para a sustentabilidade agrícola.\
+Sistemas de aviso fitossanitário e contribuição para a sustentabilidade agrícola. \
 Prof. Dr. Humberson Rocha Silva, UFRPE
 
-Monitoramento do ambiente e inóculo da ferrugem do café.\
+Monitoramento do ambiente e inóculo da ferrugem do café. \
 Dr. Fernando Dill Hinnah, SmartAgri
 
-Sistema de alerta antecipado: Brusone do trigo em Bangladesh.\
+Sistema de alerta antecipado: Brusone do trigo em Bangladesh. \
 Dr. José Maurício Cunha Fernandes, Embrapa
 
-Sistema de alerta e previsões para o controle das doenças da macieira no estado de Santa Catarina.\
+Sistema de alerta e previsões para o controle das doenças da macieira no estado de Santa Catarina. \
 Dr. Leonardo Araújo, Epagri
 
-------------------------------------------------------------------------
+**Sessão 4: Ferramentas estatísticas e computacionais de código aberto** \
+Coordenação: Dr. Cristiano Nunes Nesi, Epagri
 
-**Sessão: Modelos matemáticos, estatísticos e ferramentas computacionais**
-
-Mostra de ferramentas de código aberto para ensino e pesquisa - Epidemio R.\
-Prof. Dr. Walmes Marques Zeviani, UFPR
-
-Mostra de ferramentas de código aberto para ensino e pesquisa.\
+Ferramentas de código aberto para ensino e pesquisa. \
 Prof. Dr. Emerson Medeiros Del Ponte, UFV
 
-------------------------------------------------------------------------
+Ferramenta de código aberto - Epidemio R. \
+Prof. Dr. Walmes Marques Zeviani, UFPR
 
-**Sessão: Disseminação e dispersão de propágulos**
+**Sessão 5: Dispersão de propágulos e resistência de fungos a fungicidas** \
+Coordenação: Prof. Dra. Lilian Amorim, Esalq/USP
 
-Can fungal aerobiology tools help tracking fungicide resistance alleles and block the spread of fungicide resistance in the agroecosystem?\
+Can fungal aerobiology tools help tracking fungicide resistance alleles and block the spread of fungicide resistance in the agroecosystem? \
 Prof. Dr. Paulo Ceresini, UNESP, Ilha Solteira
 
-Aerial dispersion of smut spores during peanut harvest.\
+Evolução da resistência a fungicidas em populações de *Zymoseptoria tritici*. \
+Dr. Guilherme Rossato Augusti, UPL
+
+Aerial dispersion of smut spores during peanut harvest. \
 Dr. Juan Pablo Edwards Molina, INTA, Argentina
 
-------------------------------------------------------------------------
+**Sessão 6: Perspectivas de trabalhos em rede e colaboração** \
+Coordenação: Dra. Maria Cristina Canale, Epagri
 
-**Sessão: Perspectivas epidemiológicas e discussão pelo GTT**
+A epidemiologia de doenças de plantas no escopo da rede fitossanidade tropical. \
+Dr. Adriano Augusto de Paiva Custódio, IDR-PR
 
-Desafios da vigilância sanitária por órgãos governamentais. Ms. Fabiane dos Santos, Cidasc
+Desafios da vigilância sanitária por órgãos governamentais. \
+Ms. Fabiane dos Santos, Cidasc
 
-------------------------------------------------------------------------
+**Debates** \
+Dr. Francisco Ferraz Laranjeira, Embrapa Mandioca e Fruticultura \
+Prof. Dr. Waldir Cintra de Jesus Junior, UFSCar \
+Dr. João Américo Wordell Filho, Epagri \
+Prof. Dra. Louise Larissa May De Mio, UFPR \
+Dra. Cláudia Godoy, Embrapa Soja
 
-Presenças confirmadas para debate e participações\
-\
-Prof. Dr. Eduardo Mizubuti, UFV\
-Dra. Cláudia Godoy, Embrapa Soja\
-Dr. Francisco Ferraz Laranjeira, Embrapa Mandioca e Fruticultura\
-Prof. Dr. Waldir Cintra de Jesus Junior, UFSCar\
-Prof. Dra. Louise Larissa May De Mio, UFPR\
-Dra. Isabela Primiano, Fundecitrus\
-Dr. João Américo Wordell Filho, Epagri\
-Dr. Cristiano Nunes Nesi, Epagri\
-Dra. Maria Cristina Canale, Epagri\
+**Comitê de avaliação de trabalhos** \
+Dra. Isabela Primiano, Fundecitrus (Coordenadora) \
+Dra. Heloisa Thomazi, UFPR \
+Dr. Jacson Ferreira, Epagri \
+Dra. Maria Cristina Canale, Epagri
