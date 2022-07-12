@@ -5,7 +5,11 @@ description: |
 
 A programação ainda está em elaboração, mas já contamos com palestrantes confirmados!
 
-Última atualização: 30 de junho de 2022
+<br>
+
+> [Quadro de horários](https://docs.google.com/spreadsheets/d/1FSGTmXz8TIeWM_RvQ1ITZO2yTLe8FcegRS1ST9htWxQ/edit?usp=sharing)
+
+
 
 **Abertura**\
 Surveillance and response capacity for *Xylella fastidiosa*.\
