@@ -1,0 +1,25 @@
+---
+title: "Programação do evento"
+description: |
+  Confira o quadro de horários das apresentações
+author:
+  - name: Emerson Del Ponte
+    url: https://emersondelponte.netlify.app
+date: 2022-07-12
+output:
+  distill::distill_article:
+    self_contained: false
+categories:
+  - Workshop
+preview: workshop-horarios.png
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+[Quadro de horários](https://docs.google.com/spreadsheets/d/1FSGTmXz8TIeWM_RvQ1ITZO2yTLe8FcegRS1ST9htWxQ/edit?usp=sharing)
+
+
