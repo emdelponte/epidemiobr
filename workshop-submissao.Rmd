@@ -7,7 +7,7 @@ description: |
 
 Todos os palestrantes e apresentadores de trabalho, seja na forma de pôster ou na forma de speed talk, devem submeter um resumo (escrito preferencialmente no idioma inglês) para o evento. Para a **submissão**, o participante deve estar inscrito no evento. 
 
-Prazo para submissão: **15 de julho de 2022**
+NOVO Prazo para submissão: **25 de julho de 2022**
 
 NORMAS: Fonte Arial 11; espaçamento Simples. Título em negrito; nome do apresentador do trabalho sublinhado. Filiação: apenas com o nome da empresa, cidade e estado; email do apresentador. O resumo terá uma página, sem limite de caracteres para o corpo do texto. Possível mencionar suporte ou agradecimento no final do arquivo.
 

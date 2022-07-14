@@ -17,81 +17,81 @@ Dr. Saskia Hogenhout, John Innes Centre, Reino Unido
 **Sessão 1: Epidemiologia e manejo de doenças transmitidas por vetores**\
 Coordenação: Dra. Maria Cristina Canale, Epagri
 
-Ecologia, Epidemiologia e Manejo de Doenças Sistêmicas Transmitidas por Vetores. \
+Ecologia, Epidemiologia e Manejo de Doenças Sistêmicas Transmitidas por Vetores.\
 Prof. Dr. Armando Bergamin Filho, USP-ESALQ
 
-Dalbulus maidis monitoring program in the state of Santa Catarina: Scientific advances and challenges. \
+Dalbulus maidis monitoring program in the state of Santa Catarina: Scientific advances and challenges.\
 Prof. Dr. Fábio Nascimento da Silva, CAV-UDESC
 
-Epidemiologia e controle do Huanglongbing dos citros. \
+Epidemiologia e controle do Huanglongbing dos citros.\
 Dr. Renato Beozzo Bassanezi, Fundecitrus
 
-**Sessão 2: Perspectivas para o manejo de doenças de plantas no Brasil** \
+**Sessão 2: Perspectivas para o manejo de doenças de plantas no Brasil**\
 Coordenação: Prof. Dr. Eduardo Mizubuti, UFV
 
-Aspectos epidemiológicos da ferrugem asiática da videira. \
+Aspectos epidemiológicos da ferrugem asiática da videira.\
 Prof. Dra. Lilian Amorim, USP-ESALQ
 
-Epidemiology and the bright future of tailored solutions. \
+Epidemiology and the bright future of tailored solutions.\
 Dr. Piérri Spolti, Bayer Cropscience
 
-A pesquisa na iniciativa privada e suas contribuições no manejo de doenças. \
+A pesquisa na iniciativa privada e suas contribuições no manejo de doenças.\
 Dra. Caroline Rabelo Costa, PlantCare Pesquisa Agrícola
 
 **Sessão 3: Avanços no monitoramento e avaliação de risco\
 **Coordenação: Dr. Francisco Ferraz Laranjeira, Embrapa Mandioca e Fruticultura
 
-Sistemas de aviso fitossanitário e contribuição para a sustentabilidade agrícola. \
+Sistemas de aviso fitossanitário e contribuição para a sustentabilidade agrícola.\
 Prof. Dr. Humberson Rocha Silva, UFRPE
 
-Monitoramento do ambiente e inóculo da ferrugem do café. \
+Monitoramento do ambiente e inóculo da ferrugem do café.\
 Dr. Fernando Dill Hinnah, SmartAgri
 
-Sistema de alerta antecipado: Brusone do trigo em Bangladesh. \
+Sistema de alerta antecipado: Brusone do trigo em Bangladesh.\
 Dr. José Maurício Cunha Fernandes, Embrapa
 
-Sistema de alerta e previsões para o controle das doenças da macieira no estado de Santa Catarina. \
+Sistema de alerta e previsões para o controle das doenças da macieira no estado de Santa Catarina.\
 Dr. Leonardo Araújo, Epagri
 
-**Sessão 4: Ferramentas estatísticas e computacionais de código aberto** \
+**Sessão 4: Ferramentas estatísticas e computacionais de código aberto**\
 Coordenação: Dr. Cristiano Nunes Nesi, Epagri
 
-Ferramentas de código aberto para ensino e pesquisa. \
+Ferramentas de código aberto para ensino e pesquisa.\
 Prof. Dr. Emerson Medeiros Del Ponte, UFV
 
-Ferramenta de código aberto - Epidemio R. \
+Ferramenta de código aberto - Epidemio R.\
 Prof. Dr. Walmes Marques Zeviani, UFPR
 
-**Sessão 5: Dispersão de propágulos e resistência de fungos a fungicidas** \
+**Sessão 5: Dispersão de propágulos e resistência de fungos a fungicidas**\
 Coordenação: Prof. Dra. Lilian Amorim, Esalq/USP
 
-Can fungal aerobiology tools help tracking fungicide resistance alleles and block the spread of fungicide resistance in the agroecosystem? \
+Can fungal aerobiology tools help tracking fungicide resistance alleles and block the spread of fungicide resistance in the agroecosystem?\
 Prof. Dr. Paulo Ceresini, UNESP, Ilha Solteira
 
-Evolução da resistência a fungicidas em populações de *Zymoseptoria tritici*. \
+Evolução da resistência a fungicidas em populações de *Zymoseptoria tritici*.\
 Dr. Guilherme Rossato Augusti, UPL
 
-Aerial dispersion of smut spores during peanut harvest. \
+Aerial dispersion of smut spores during peanut harvest.\
 Dr. Juan Pablo Edwards Molina, INTA, Argentina
 
-**Sessão 6: Perspectivas de trabalhos em rede e colaboração** \
+**Sessão 6: Perspectivas de trabalhos em rede e colaboração**\
 Coordenação: Dra. Maria Cristina Canale, Epagri
 
-A epidemiologia de doenças de plantas no escopo da rede fitossanidade tropical. \
+A epidemiologia de doenças de plantas no escopo da rede fitossanidade tropical.\
 Dr. Adriano Augusto de Paiva Custódio, IDR-PR
 
-Desafios da vigilância sanitária por órgãos governamentais. \
+Desafios da vigilância sanitária por órgãos governamentais.\
 Ms. Fabiane dos Santos, Cidasc
 
-**Debates** \
-Dr. Francisco Ferraz Laranjeira, Embrapa Mandioca e Fruticultura \
-Prof. Dr. Waldir Cintra de Jesus Junior, UFSCar \
-Dr. João Américo Wordell Filho, Epagri \
-Prof. Dra. Louise Larissa May De Mio, UFPR \
+**Debates**\
+Dr. Francisco Ferraz Laranjeira, Embrapa Mandioca e Fruticultura\
+Prof. Dr. Waldir Cintra de Jesus Junior, UFSCar\
+Dr. João Américo Wordell Filho, Epagri\
+Prof. Dra. Louise Larissa May De Mio, UFPR\
 Dra. Cláudia Godoy, Embrapa Soja
 
-**Comitê de avaliação de trabalhos** \
-Dra. Isabela Primiano, Fundecitrus (Coordenadora) \
-Dra. Heloisa Thomazi, UFPR \
-Dr. Jacson Ferreira, Epagri \
+**Comitê de avaliação de trabalhos**\
+Dra. Isabela Primiano, Fundecitrus (Coordenadora)\
+Dra. Heloisa Thomazi, UFPR\
+Dr. Jacson Ferreira, Epagri\
 Dra. Maria Cristina Canale, Epagri
