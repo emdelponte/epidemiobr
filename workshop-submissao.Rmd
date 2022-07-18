@@ -13,7 +13,7 @@ NORMAS: Fonte Arial 11; espaçamento Simples. Título em negrito; nome do aprese
 
 [Baixe aqui um modelo padrão de resumo](img/template_resumo.docx)
 
-Enviar os resumos em arquivo word para [jacsonfito\@gmail.com](mailto:jacsonfito@gmail.com){.email}
+Enviar os resumos em arquivo word para [cristinacanale@epagri.sc.gov.br](mailto:cristinacanale@epagri.sc.gov.br){.email}
 
 ## Palestras 
 
