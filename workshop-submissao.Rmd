@@ -5,7 +5,7 @@ description: |
 
 ## Resumos
 
-Todos os palestrantes e apresentadores de trabalho, seja na forma de pôster ou na forma de speed talk, devem submeter um resumo (escrito preferencialmente no idioma inglês) para o evento. Para a **submissão**, o participante deve estar inscrito no evento. 
+Todos os palestrantes e apresentadores de trabalho, seja na forma de pôster ou na forma de speed talk, devem submeter um resumo (escrito preferencialmente no idioma inglês) para o evento. Para a **submissão**, o participante deve estar inscrito no evento.
 
 > O recebimento de resumos está suspenso
 
@@ -13,16 +13,83 @@ NORMAS: Fonte Arial 11; espaçamento Simples. Título em negrito; nome do aprese
 
 [Baixe aqui um modelo padrão de resumo](img/template_resumo.docx)
 
-Enviar os resumos em arquivo word para [cristinacanale@epagri.sc.gov.br](mailto:cristinacanale@epagri.sc.gov.br){.email}
+Enviar os resumos em arquivo word para [cristinacanale\@epagri.sc.gov.br](mailto:cristinacanale@epagri.sc.gov.br){.email}
 
-## Palestras 
+## Palestras
 
 As sessões serão compostas por palestras de 30 min. Pede-se, entretanto, que o palestrante prepare para a exposição em 25 min, e que reserve 5 minutos para debate.
 
 ## Speed talk
 
-Minha pesquisa em 3 slides. Serão selecionados 10 trabalhos para serem apresentados em 5 min.
+Minha pesquisa em 3 slides. Slides de preferência em inglês. Por favor, pedimos para os selecionados nos enviarem o arquivo da apresentação até 12/09. Pedimos também um pôster para que os conferencistas possam se familiarizar com o trabalho. A ordem da apresentação será a seguinte:
 
-## Mostra de pôsteres 
+1.  Assessment of Alternaria Brown Spot outbreaks on tangerine orchard by using an ordinal rating scale
+2.  Convolutional Neural Network to estimate the severity of Late Blight on potato leaf discs
+3.  Combined effect of myrtle rust and water deficit on photosynthesis of guava plants
+4.  Comparative epidemiology of coffee leaf rust (*Hemileia vastatrix*) at different altitudes
+5.  The population of the Asian-citrus-psyllid, *Diaphorina citri*, may be low in Santa Catarina
+6.  Nucleic acid extraction and multiplex polymerase chain reaction analysis for detecting maize stunt causal agents in plants and insect tissues
+7.  Aphid fauna (Insecta, Hemiptera) associated with transmission of plant viruses to vegetable brassicas in the green belt of São Paulo
+8.  Spatial and temporal incidence of maize rayado fino disease in a second crop season experimental field in Chapecó, Santa Catarina, Brazil
 
-A elaboração da arte do pôster é livre. Medidas máximas: 120 x 90 cm.
+## Mostra de pôsteres
+
+A elaboração da arte do pôster é livre. Medidas máximas: 120 x 90 cm. Todos os pôsteres devem ser colocados nos primeiros momentos do evento, assim durante o coffee break todos já podem ver os trabalhos. Durante a sessão de pôster, cada autor que não apresentou na forma de speed talk terá 2 min para falar sobre o trabalho.
+
+1\. Evaluation of a generic model to predict garlic rust on San Valentim cultivar in Caçador, SC
+
+2\. Conidia release and ascospores ejection of *Neonectria ditissima* in apple branches in São Joaquim, Brazil
+
+3\. Mechanical transmission of *Xylella fastidiosa* to *Prunus salicina* using pruning shears
+
+4\. First report of \'*Candidatus Liberibacter asiaticus*\' associated with three symptomatic \'Ponkan\' citrus tree in Xanxerê, Santa Catarina
+
+5\. The population of the Asian-citrus-psyllid, *Diaphorina citri*, may be low in Santa Catarina
+
+6\. Nucleic acid extraction and multiplex polymerase chain reaction analysis for the detection of maize stunt causal agents in plants and insect tissues
+
+7\. Aphid fauna (Insecta, Hemiptera) associated with transmission of plant viruses to vegetable brassicas in the green belt of São Paulo
+
+8\. Assessment of the resistance of PIWI varieties and selections to grapevine vine downy mildew and the genotype interaction vs environment
+
+9\. Spatial and temporal incidence of maize rayado fino disease in a second crop season experimental field in Chapecó, Santa Catarina, Brazil
+
+10\. Dispersão de Pseudocercospora vitis, agente causal da mancha das folhas da videira, nas condições climáticas da região metropolitana de Curitiba
+
+11\. Infectivity of corn leafhopper, *Dalbulus maidis* (Hemiptera: Cicadellidae), with Maize bushy stunt phytoplasma and Spiroplasma kunkelii in Santa Catarina State, Brazil
+
+12\. *Dalbulus maidis*, the insect vector of Maize rayado fino virus (MRFV), does not distinguish between two maize genotypes in field conditions but seems to prefer asymptomatic plants
+
+13\. Temporal transition of microbial communities and chemical properties of soil related to Fusarium wilt disease in one banana field
+
+14\. Pathogenic specificity of *Austropuccinia psidii*, the causal agent of myrtle rust
+
+15\. Optimizing the frequency of insecticide application to control primary infections of Huanglongbing in citrus edge blocks
+
+16\. Assessment of Alternaria Brown Spot outbreaks on tangerine orchard by using an ordinal rating scale
+
+17\. Effect of early harvest on wheat Fusarium Head Blight severity
+
+18\. Diversity of oomycetes associated with soybean seedlings disease in Brazil
+
+19\. Comparative epidemiology of coffee leaf rust (*Hemileia vastatrix*) at different altitudes
+
+20\. Convolutional Neural Network to estimate the severity of Late Blight on potato leaf discs
+
+21\. Progress of stalk rots in maize
+
+22\. Mycelial growth and sporulation of small-spored Alternaria isolates associated with potato brown spot in Brazil
+
+23\. Combined effect of myrtle rust and water deficit on photosynthesis of guava plants
+
+24\. A resistência da goiabeira \'Suprema\' à ferrugem tem custo fotossintético e depende da concentração de inóculo
+
+25\. Integration of the tutoring system, leave removal with inoculum and the interval of application of fungicides in the management of early blight of tomato
+
+26\. Temporal analysis and quantification of damage caused by eucalyptus rust
+
+27\. Feasibility of integrating genetic resistance, fungicide and silicon in the management of Fusarium Head Blight of wheat
+
+28\. Spatiotemporal dynamics of bacterial wilt in eucalyptus
+
+\
